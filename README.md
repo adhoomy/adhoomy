@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Software Engineering & Cyber Security<br>🎓 CUNY Queens College Undergraduate<br>      Computer Science<br>      Computer Information Technology<br>      Arabic
+👨🏻‍💻 Software Engineering & Cyber Security<br>🎓 CUNY Queens College Undergraduate<br>      📖 Computer Science, Computer Information Technology, and Arabic
 
 
 ## 🌐 Socials:
